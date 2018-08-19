@@ -17,8 +17,8 @@ dev_dependencies:
 
 # The following section is specific to Flutter.
 flutter:
-   environment:
-       sdk: ">=1.19.0 <7.0.0"
+environment:
+  sdk: ">=2.0.0-dev.58.0 <7.0.0"
 
   # To add assets to your package, add an assets section, like this:
   # assets:
