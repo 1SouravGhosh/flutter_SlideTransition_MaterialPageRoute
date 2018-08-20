@@ -1,6 +1,6 @@
 name: slide_transition_page_route
 description: A flutter package to add Slide Transition in MaterialPage route. 
-version: 0.0.1
+version: 1.0.0
 author: Sourav Ghosh<srvghsh2@gmail.com>
 homepage: https://github.com/1SouravGhosh/flutter_SlideTransition_MaterialPageRoute
 
@@ -18,7 +18,7 @@ dev_dependencies:
 # The following section is specific to Flutter.
 flutter:
 environment:
-  sdk: ">=2.0.0-dev.58.0 <7.0.0"
+  sdk: ">=1.0.0-dev.0.0 <7.0.0"
 
   # To add assets to your package, add an assets section, like this:
   # assets:
